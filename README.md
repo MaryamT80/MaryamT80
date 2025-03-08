@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# My Project
+
+## 🚀 About the Project
+I want to write a perfect project.
+
+## 📞 Contact
+- GitHub: https://github.com/MaryamT80
