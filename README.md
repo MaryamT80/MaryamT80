@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/MaryamT80/MaryamT80/blob/main/Welcome.webp))
 
 ## 🚀 About Me
-Hi! I'm **[Your Name]**, a passionate developer who loves building cool stuff with code. I'm always exploring new technologies and contributing to open-source projects.
+Hi! I'm Maryam, a passionate developer who loves building cool stuff with code. I'm always exploring new technologies and contributing to open-source projects.
 
 - 🌱 Currently learning: Cybersecurity Bootcamp with HyperionDev (CoGrammar)
 - 🔭 Working on: Cybersecurity projects
